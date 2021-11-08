@@ -1,7 +1,7 @@
 
 # Predicting standardized absolute returns using rolling-sample textual modelling
 
-[![DOI](https://zenodo.org/badge/425697235.svg)](https://zenodo.org/badge/latestdoi/425697235)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5652451.svg)](https://doi.org/10.5281/zenodo.5652451)
 
 # Abstract
 
