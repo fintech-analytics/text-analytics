@@ -1,6 +1,8 @@
 
 # Predicting standardized absolute returns using rolling-sample textual modelling
 
+[![DOI](https://zenodo.org/badge/425697235.svg)](https://zenodo.org/badge/latestdoi/425697235)
+
 # Abstract
 
 Understanding how textual information impacts financial market volatility has been one of the growing topics in financial econometric research. In this paper, we aim to examine the relationship between the volatility measure that is extracted from GARCH modeling and textual news information that is both publicly available and from subscription and the performances of the two datasets are also brought into comparison. We utilize latent Dirichlet allocation method to capture the dynamic features of the textual data overtime by summarizing their statistical outputs, such as topic distributions in documents and word distributions in topics. In addition, we transform various measures representing the popularity and diversity of topics to form predictors for rolling regression model to assess the usefulness of textual information. The proposed method captures the statistical properties of textual information from different time periods and its performance is evaluated in an out-of-sample analysis. 
